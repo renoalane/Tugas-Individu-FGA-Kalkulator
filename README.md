@@ -1,4 +1,4 @@
 # Tugas-Individu-FGA-Kalkulator
-Tugas Individu FGA
-Nama : Reno Alane Pradino
+Tugas Individu FGA <br>
+Nama : Reno Alane Pradino <br>
 demo : https://renoalane.github.io/Tugas-Individu-FGA-Kalkulator/
