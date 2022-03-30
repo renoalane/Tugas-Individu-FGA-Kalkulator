@@ -3,7 +3,7 @@ const buttons = document.querySelectorAll("button");
 
 document.addEventListener('keydown', (e) => {
   var patternForNumbers = /[0-9]/g;
-  var patternForOperators = /[+\-*\()/]/g;
+  var patternForOperators = /[+\-*\()\%/]/g;
 
   if(e.key === "Enter" || e.key === "="){
     e.preventDefault(); 
